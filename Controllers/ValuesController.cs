@@ -26,7 +26,7 @@ namespace AngularWebAPI.Controllers
 
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> GetString2()
+        public ActionResult<IEnumerable<string>> GetString3()
         {
             return new string[] { "value1", "value2" };
         }
