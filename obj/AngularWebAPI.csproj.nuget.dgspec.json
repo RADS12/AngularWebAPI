@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\srira\\Documents\\Rad\\VSProjects\\Angular7CRUDDemo\\AngularWebAPI\\AngularWebAPI.csproj": {}
+    "C:\\Rad\\GitHub\\AngularWebAPI\\AngularWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\srira\\Documents\\Rad\\VSProjects\\Angular7CRUDDemo\\AngularWebAPI\\AngularWebAPI.csproj": {
+    "C:\\Rad\\GitHub\\AngularWebAPI\\AngularWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srira\\Documents\\Rad\\VSProjects\\Angular7CRUDDemo\\AngularWebAPI\\AngularWebAPI.csproj",
+        "projectUniqueName": "C:\\Rad\\GitHub\\AngularWebAPI\\AngularWebAPI.csproj",
         "projectName": "AngularWebAPI",
-        "projectPath": "C:\\Users\\srira\\Documents\\Rad\\VSProjects\\Angular7CRUDDemo\\AngularWebAPI\\AngularWebAPI.csproj",
+        "projectPath": "C:\\Rad\\GitHub\\AngularWebAPI\\AngularWebAPI.csproj",
         "packagesPath": "C:\\Users\\srira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srira\\Documents\\Rad\\VSProjects\\Angular7CRUDDemo\\AngularWebAPI\\obj\\",
+        "outputPath": "C:\\Rad\\GitHub\\AngularWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

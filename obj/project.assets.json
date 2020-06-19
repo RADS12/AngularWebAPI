@@ -11643,7 +11643,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
+      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
@@ -11804,11 +11804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\srira\\Documents\\Rad\\VSProjects\\Angular7CRUDDemo\\AngularWebAPI\\AngularWebAPI.csproj",
+      "projectUniqueName": "C:\\Rad\\GitHub\\AngularWebAPI\\AngularWebAPI.csproj",
       "projectName": "AngularWebAPI",
-      "projectPath": "C:\\Users\\srira\\Documents\\Rad\\VSProjects\\Angular7CRUDDemo\\AngularWebAPI\\AngularWebAPI.csproj",
+      "projectPath": "C:\\Rad\\GitHub\\AngularWebAPI\\AngularWebAPI.csproj",
       "packagesPath": "C:\\Users\\srira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srira\\Documents\\Rad\\VSProjects\\Angular7CRUDDemo\\AngularWebAPI\\obj\\",
+      "outputPath": "C:\\Rad\\GitHub\\AngularWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
