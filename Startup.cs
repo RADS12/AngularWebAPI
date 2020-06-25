@@ -12,6 +12,7 @@ using Microsoft.Extensions.Options;
 
 namespace AngularWebAPI
 {
+    //Modified from fork SriRads
     public class Startup
     {
         public Startup(IConfiguration configuration)
